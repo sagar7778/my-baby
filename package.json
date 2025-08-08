@@ -5,8 +5,8 @@
   "author": "",
   "private": true,
   "license": "UNLICENSED",
-  "scripts": {
-   "build": "nest build",
+ "scripts": {
+  "build": "nest build",
   "vercel-build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
